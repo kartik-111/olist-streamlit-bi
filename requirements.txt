@@ -1,0 +1,6 @@
+pandas
+pyarrow
+plotly
+streamlit
+pytest
+python-dateutil
